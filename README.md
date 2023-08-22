@@ -1,6 +1,6 @@
 # Delay-timer-Contactor
 ![alt text](https://github.com/kevinthequiet/Delay-timer-Contactor/blob/main/1.jpg)
-<h3>What is this contraption for?</h3>
+<h2>What is this contraption for?</h2>
 -It is used to delay the start of an electrical device if there was power loss
 <br>
 <h2> Examples of uses and explanation </h2>
@@ -13,7 +13,7 @@ it is recomended to wait a couple of minuites before turning it back on
 -So it would make the electronic devices or machines connected to it last longger espesially if you live in an area with constant and repeated black outs or power loss
 .
 <br>
-<h3>Parts used</h3>
+<h2>Parts used</h2>
 -Mitsubishi electric S-N12 contactor<br>
 -Omron H3CR timer and mount for it<br>
 -3 hole outlet Uticon<br>
@@ -21,3 +21,5 @@ it is recomended to wait a couple of minuites before turning it back on
 -A piece of wood<br>
 -Some screws<br>
 -Wires 1.5mm thick <br>
+<h2>Wiring diagram</h2>
+https://github.com/kevinthequiet/Delay-timer-Contactor/blob/main/contactor%20delay%20timer%20wiring%20diagram.jpg
