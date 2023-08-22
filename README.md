@@ -1,4 +1,5 @@
 # Delay-timer-Contactor
+![alt text](https://github.com/kevinthequiet/Delay-timer-Contactor/blob/main/1.jpg)
 <h3>What is this contraption for?</h3>
 -It is used to delay the start of an electrical device if there was power loss
 <br>
@@ -20,3 +21,4 @@ it is recomended to wait a couple of minuites before turning it back on
 -A piece of wood<br>
 -Some screws<br>
 -Wires 1.5mm thick <br>
+![alt text](https://github.com/kevinthequiet/Delay-timer-Contactor/blob/main/1.jpg)
